@@ -1,0 +1,8 @@
+clear history
+show history
+help
+who are you?
+hi
+help
+who are you?
+hi
